@@ -6,3 +6,7 @@
  
   *后台管理*
  [laravel-admin](https://github.com/z-song/laravel-admin 'laravel-admin')
+ 
+  
+  *电子表格操作*
+ [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel 'Laravel-Excel')
